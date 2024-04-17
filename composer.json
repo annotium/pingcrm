@@ -11,6 +11,7 @@
         "php": "^8.2",
         "ext-exif": "*",
         "ext-gd": "*",
+        "binance/binance-connector-php": "^1.5",
         "fakerphp/faker": "^1.23",
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "^1.0",

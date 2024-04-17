@@ -16,4 +16,4 @@ createServer((page) => createInertiaApp({
       render: () => h(app, props),
     }).use(plugin)
   },
-}))
+}));
